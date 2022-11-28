@@ -1,6 +1,6 @@
 ### Pablo Andrés Andalaft Tarodo
 
-I am an Aerospace Engineer with a keen interest in coding. After a long time as an amateur, I joined the coding school [42 Wolfsburg](https://www.42wolfsburg.de) to develop fully into a Software Engineer.
+I am an Aerospace Engineer with a keen interest in coding. After a long time of half-commitments to it, I joined the coding school [42 Wolfsburg](https://www.42wolfsburg.de) to develop fully into a Software Engineer.
 
 ### Software Background 
 
