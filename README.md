@@ -4,7 +4,7 @@ I am an Aerospace Engineer with a keen interest in coding. After a long time of 
 
 ### Software Background 
 
-I have used the static site generator [Hugo](https://gohugo.io) together with [Netlify](https://www.netlify.com) to bring websites to life. At work, I've developed Google Scripts that use JavaScript. During my Aerospace studies I used [Matlab](https://www.mathworks.com/) and C for applied Engineering. At 42 I am mostly coding with C.
+I have used the static site generator [Hugo](https://gohugo.io) together with [Netlify](https://www.netlify.com) to bring websites to life. At work, I've developed Google Scripts that use ***JavaScript***. During my Aerospace studies I used [Matlab](https://www.mathworks.com/) and ***C*** for applied Engineering. I am educating myself on [OpenCV](https://opencv.org/) using ***Python***. At 42 I am mostly coding with ***C***.
 
 <!--
 **pandaero/pandaero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
