@@ -1,6 +1,6 @@
 ### Pablo Andrés Andalaft Tarodo
 
-I am an Aerospace Engineer. I am at [42 Wolfsburg](https://www.42wolfsburg.de) to learn Software Engineering in depth.
+Aerospace Engineering is my main interest. At [42 Wolfsburg](https://www.42wolfsburg.de) I have learnt Software Engineering in depth.
 
 ### Software Background 
 
